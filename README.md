@@ -1,4 +1,4 @@
-### Jesse says hi
+### ₿
 
 <!--
 **jesse-marks/jesse-marks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
